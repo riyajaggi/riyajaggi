@@ -1,24 +1,47 @@
-<h1 align="center">Hi 👋, I'm Riya Jaggi</h1>
-Hi, I’m Riya! 👋 I’m a Software Engineer, rocking it in the heart of Silicon Valley. 🚀 I graduated from Cornell University’22 majoring in Computer Science with minor in UX/UI. I’m passionate about products and technologies that amplify human connections, sparks productivity and promote creativity! Always down to network, meet other women in tech and create a community! 👩🏻‍💻 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E2725B&height=150&section=header&text=Hi,%20I'm%20Riya%20👋&fontColor=FFFFFF&fontSize=40" width="100%" />
 
-Let’s grab coffee and chat about: 
-- software development 
-- emerging tech trends 
-- design thinking 
-- women in tech 
-- travel 
-- arts & crafts 
-- what are you reading? 
-
-Let’s collaborate and create amazing things together! 🌱
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riyajaggi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyajaggi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E2725B&center=true&vCenter=true&width=500&lines=Driven+by+curiosity.;Built+with+care.;Software+engineer+%F0%9F%92%BB+%C2%B7+Bay+Area+%E2%98%80%EF%B8%8F" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Cornell '22 · Grace Hopper Celebration speaker '24 🎤
 
+I love building things that bring people together, boost productivity, and spark creativity ✨
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E2725B&height=2" width="100%" />
+
+### ☕ Let's talk about
+
+AI · emerging tech · UX/UI · accessibility · creativity · design thinking · women in tech · community building · travel ✈️ · what you're reading 📚
+
+### 🧰 What I build with
+
+![TypeScript](https://img.shields.io/badge/TypeScript-E2725B?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-E2725B?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E2725B?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E2725B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-E2725B?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-E2725B?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-E2725B?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E2725B?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 On GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=riyajaggi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E2725B&icon_color=E2725B&text_color=9a8478" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajaggi&layout=compact&hide_border=true&bg_color=00000000&title_color=E2725B&text_color=9a8478" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E2725B&height=2" width="100%" />
+
+### 🔗 Find me
+
+Coffee, bakery crawl, or a quick video call? Let's swap tech stories 🥐
+
+[![Website](https://img.shields.io/badge/Website-riyajaggi.github.io-E2725B?style=for-the-badge)](https://riyajaggi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-say%20hi-E2725B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyajaggi/)
+[![Art](https://img.shields.io/badge/My%20Art-🎨-E2725B?style=for-the-badge)](https://riyajaggi.github.io/art/)
+
+Nice to meet you! Let's collaborate and make something great 🫶
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E2725B&height=80&section=footer" width="100%" />
