@@ -6,11 +6,11 @@
 
 Cornell '22 · Grace Hopper Celebration speaker '24 🎤
 
-I’m a Senior Software Engineer at LinkedIn who loves building thoughtful, useful technology that helps people connect, create, and get things done. ✨
+I’m a Senior Software Engineer at LinkedIn who loves building thoughtful, useful technology that brings people together, boosts productivity, and sparks creativity.
 
-Curious about what’s next in AI and UX, and always up for swapping ideas, meeting other women in tech, and building community. 👩🏻‍💻
+Curious about what’s next in AI and UX, and always up for swapping ideas, meeting other women in tech, and building community.
 
-Outside of code, you’ll find me making art, exploring a cafe or bakery, or looking for my next read. 🎨☕📚
+Outside of code, you’ll find me making art, exploring a cafe or bakery, or looking for my next read.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E2725B&height=2" width="100%" />
 
