@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="180" height="156" viewBox="0 0 180 156" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="title desc">
   <title id="title">Pip the sprout</title>
-  <desc id="desc">An original smiling pixel-style sage sprout pet in a terracotta pot, gently bobbing and blinking beside a tiny sage sparkle.</desc>
+  <desc id="desc">Pip, a smiling sage sprout in a terracotta pot, bobs, blinks and occasionally winks just above the right side of a terracotta footer wave.</desc>
   <style>
     .pip { animation: bob 4s ease-in-out infinite; }
-    .eyes { transform-box: fill-box; transform-origin: center; animation: blink 6s infinite; }
+    .eye { transform-box: fill-box; transform-origin: center; animation: blink 8s infinite; }
+    .eye-right { animation-name: blink-and-wink; }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
-    @keyframes blink { 0%, 43%, 47%, 100% { transform: scaleY(1); } 45% { transform: scaleY(0.15); } }
-    @media (prefers-reduced-motion: reduce) { .pip, .eyes { animation: none; } }
+    @keyframes blink { 0%, 23%, 27%, 100% { transform: scaleY(1); } 25% { transform: scaleY(0.15); } }
+    @keyframes blink-and-wink { 0%, 23%, 27%, 70%, 78%, 100% { transform: scaleY(1); } 25%, 72%, 76% { transform: scaleY(0.15); } }
+    @media (prefers-reduced-motion: reduce) { .pip, .eye { animation: none; } }
   </style>
+  <path fill="#E2725B" d="M0 165C150 115 300 195 450 170S750 145 900 165V200H0Z"/>
+  <g transform="translate(700 16)">
   <g class="pip" shape-rendering="crispEdges">
     <path fill="#536B55" d="M86 36h8v36h-8z"/>
     <path fill="#536B55" d="M54 20h24v8h8v24H70v-8h-8v-8h-8zM102 12h24v16h-8v8h-8v8H94V28h8z"/>
@@ -15,9 +19,11 @@
     <path fill="#222222" d="M46 64h88v24h-8v40h-8v8H62v-8h-8V88h-8z"/>
     <path fill="#E2725B" d="M54 72h72v8H54zM62 88h56v32h-8v8H70v-8h-8z"/>
     <path fill="#9A3F1F" d="M62 88h56v8H62z"/>
-    <path class="eyes" fill="#222222" d="M74 100h8v8h-8zM98 100h8v8h-8z"/>
+    <path class="eye" fill="#222222" d="M74 100h8v8h-8z"/>
+    <path class="eye eye-right" fill="#222222" d="M98 100h8v8h-8z"/>
     <path fill="#222222" d="M82 112h16v6H82zM42 96h12v8H42zM126 96h12v8h-12z"/>
     <path fill="#FAF7F4" d="M66 110h8v6h-8zM106 110h8v6h-8z"/>
     <path fill="#8FA98B" d="M142 40h6v6h6v6h-6v6h-6v-6h-6v-6h6z"/>
+  </g>
   </g>
 </svg>

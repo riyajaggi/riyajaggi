@@ -48,8 +48,4 @@ Coffee, bakery crawl, or a quick video call? Let's swap tech stories 🥐
 
 Nice to meet you! Let's collaborate and make something great 🫶
 
-<p align="right">
-  <img src="assets/pip.svg" width="120" height="104" alt="Pip, my little sage sprout pet, gently bobbing and blinking." />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E2725B&height=80&section=footer" width="100%" />
+<img src="assets/pip.svg" width="100%" alt="Pip, my little sage sprout pet, bobbing, blinking and winking above a terracotta wave." />
