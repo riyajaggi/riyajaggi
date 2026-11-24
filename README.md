@@ -20,14 +20,14 @@ AI · emerging tech · UX/UI · accessibility · creativity · design thinking �
 
 ### 🧰 What I build with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-E2725B?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-71866D?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B65D48?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-536B55?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-E2725B?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-71866D?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-B65D48?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-536B55?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](assets/badges/typescript.svg)
+![React](assets/badges/react.svg)
+![Python](assets/badges/python.svg)
+![Java](assets/badges/java.svg)
+![Node.js](assets/badges/node-js.svg)
+![Firebase](assets/badges/firebase.svg)
+![Docker](assets/badges/docker.svg)
+![Figma](assets/badges/figma.svg)
 
 ### 📊 On GitHub
 
@@ -42,9 +42,9 @@ AI · emerging tech · UX/UI · accessibility · creativity · design thinking �
 
 Coffee, bakery crawl, or a quick video call? Let's swap tech stories 🥐
 
-[![My website](https://img.shields.io/badge/My_website-E2725B?style=for-the-badge)](https://riyajaggi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-536B55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyajaggi/)
-[![My art](https://img.shields.io/badge/My_art-B65D48?style=for-the-badge)](https://riyajaggi.github.io/art/)
+[![My website](assets/badges/my_website.svg)](https://riyajaggi.github.io)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/riyajaggi/)
+[![My art](assets/badges/my_art.svg)](https://riyajaggi.github.io/art/)
 
 Nice to meet you! Let's collaborate and make something great 🫶
 
